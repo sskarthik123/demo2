@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-hello
-=======
-hello from first branch11
->>>>>>> 196a965 (to check changes.)
